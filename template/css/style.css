@@ -1,0 +1,13 @@
+body {
+	min-width: 720px;
+}
+.errors {
+    width: 100%;
+    min-height: 20px;
+}
+img {
+	max-width: 100%;
+}
+#preview {
+	display: none;
+}
